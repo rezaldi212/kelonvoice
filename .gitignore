@@ -1,5 +1,6 @@
 .claude/
 __pycache__/
+*.pyc
 build/
 dist/
-.git/
+data/
