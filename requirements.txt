@@ -1,0 +1,5 @@
+customtkinter
+pydub
+yt-dlp
+faster-whisper
+pygame-ce
